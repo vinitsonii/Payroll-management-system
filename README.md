@@ -63,8 +63,9 @@ http://localhost/Payroll-management-system
 https://payroll.gt.tc/
 
 ## Website Preview
-
-![Preview](https://image.thum.io/get/width/1400/https://payroll.gt.tc/)
+<p align="center">
+  <img src="https://image.thum.io/get/width/1400/https://payroll.gt.tc/" />
+</p>
 
 ## Future Enhancements
 
