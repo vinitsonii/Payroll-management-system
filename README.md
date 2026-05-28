@@ -59,6 +59,12 @@ http://localhost/Payroll-management-system
 ```
 
 ---
+## Live Demo
+https://payroll.gt.tc/
+
+## Website Preview
+
+![Preview](https://image.thum.io/get/width/1400/https://payroll.gt.tc/)
 
 ## Future Enhancements
 
